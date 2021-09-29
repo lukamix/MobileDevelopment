@@ -2,11 +2,11 @@
 
 **Task 1: Install Android Studio**
 
-![image](https://user-images.githubusercontent.com/62656512/135213055-b26133f8-0ffb-4f43-8488-446867d0f9a7.png)
+# ![image](https://user-images.githubusercontent.com/62656512/135213055-b26133f8-0ffb-4f43-8488-446867d0f9a7.png)
 
 **Task 2: Create Hello World App**
 
-![image](https://user-images.githubusercontent.com/62656512/135213436-cc518cd3-136e-4166-ab89-5f3ae1aaa6c9.png)
+# ![image](https://user-images.githubusercontent.com/62656512/135213436-cc518cd3-136e-4166-ab89-5f3ae1aaa6c9.png)
 
 **Task 3: Use a Virtual Device**
 
