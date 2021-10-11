@@ -1,7 +1,5 @@
-## Repo này dùng để upload bài tập Lập trình ứng dụng cho thiết bị di động của Nguyễn Bá Đức - MSSV: 20183499
+## Task 1:
 
-[Facebook](https://www.facebook.com/Luka.Meoww/)
+![image](https://user-images.githubusercontent.com/62656512/136759316-5d72418d-80cd-4d53-9bc9-9c26d22fc911.png)
 
-## Bài tập từng tuần ứng với các branch tương ứng với tên tuần đó
-
-## Xin cảm ơn
+## Task 2:
