@@ -16,3 +16,11 @@
 
 ![image](https://user-images.githubusercontent.com/62656512/136761240-e2dab2f4-cad4-46f4-9eca-f1234dd1cd64.png)
 
+## Task 3:
+
+![image](https://user-images.githubusercontent.com/62656512/136762549-008addc4-9e43-4857-9bb8-6999fb375c1f.png)
+
+## Coding Challenge
+
+![image](https://user-images.githubusercontent.com/62656512/136763198-8ef2930a-5604-4f6c-8909-6d7ebd39cf22.png)
+
