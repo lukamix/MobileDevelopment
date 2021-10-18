@@ -2,7 +2,7 @@
 
 [Facebook](https://www.facebook.com/Luka.Meoww/)
 
-# Update : Đã xong tuần 1, 2, 3 !
+# Update : Đã xong tuần 1, 2, 3,4 !
 
 ## Bài tập từng tuần ứng với các branch tương ứng với tên tuần đó
 
