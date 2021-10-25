@@ -25,3 +25,10 @@
 ## Task 5:
 
 ![image](https://user-images.githubusercontent.com/62656512/138693426-fcd14e5b-6a0c-4169-b81f-306027b5361c.png)
+
+# Codelab 03.1
+
+## Task 1:
+
+![image](https://user-images.githubusercontent.com/62656512/138703146-7b27d640-2bdc-46b3-813a-40b8a1aeca35.png)
+
