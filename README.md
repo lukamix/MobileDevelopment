@@ -32,3 +32,18 @@
 
 ![image](https://user-images.githubusercontent.com/62656512/138703146-7b27d640-2bdc-46b3-813a-40b8a1aeca35.png)
 
+# Codelab 03.2
+
+## Task 1:
+
+![image](https://user-images.githubusercontent.com/62656512/138704603-6e087921-f57d-4463-af1d-c6b7268a29ae.png)
+
+## Task 2:
+
+![image](https://user-images.githubusercontent.com/62656512/138704943-3ebb3bb0-d972-4977-bcc8-8a059c51a52c.png)
+
+![image](https://user-images.githubusercontent.com/62656512/138705166-8721d2fc-506e-4dbc-9202-9975caf3f0d2.png)
+
+![image](https://user-images.githubusercontent.com/62656512/138706356-8bc14c60-795a-4c2c-9f74-bc1379061dac.png)
+
+
