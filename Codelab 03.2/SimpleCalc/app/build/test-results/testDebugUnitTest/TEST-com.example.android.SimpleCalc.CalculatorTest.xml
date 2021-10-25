@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.SimpleCalc.CalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-10-25T13:38:43" hostname="DESKTOP-SAIE8J4" time="0.034">
+  <properties/>
+  <testcase name="addTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.003"/>
+  <testcase name="subTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersNegative" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="mulTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.001"/>
+  <testcase name="subWorksWithNegativeResults" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="divTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersFloats" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.028"/>
+  <testcase name="mulTwoNumbersZero" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="divTwoNumbersZero" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

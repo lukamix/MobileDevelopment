@@ -1,0 +1,4 @@
+#Mon Oct 25 20:17:25 ICT 2021
+base.0=D\:\\PRJ\\android-fundamentals-starter-apps-v2-master\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
