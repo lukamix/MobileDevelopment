@@ -10,4 +10,5 @@
 
 ## Task 2:
 
+![image](https://user-images.githubusercontent.com/62656512/138656284-70d31493-9e24-41c1-974b-d3826d805739.png)
 
