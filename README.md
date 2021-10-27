@@ -2,7 +2,9 @@
 
 [Facebook](https://www.facebook.com/Luka.Meoww/)
 
-# Update : Đã xong tuần 1, 2, 3,4 !
+# Update : Đã xong tuần 1, 2, 3, 4, 5 !
+
+# Update 2 : Ứng dụng Calculator ở nhánh calculator
 
 ## Bài tập từng tuần ứng với các branch tương ứng với tên tuần đó
 
