@@ -1,9 +1,4 @@
-## Repo này dùng để upload bài tập Lập trình ứng dụng cho thiết bị di động của Nguyễn Bá Đức - MSSV: 20183499
+# Calculator chạy trên Android Studio
 
-[Facebook](https://www.facebook.com/Luka.Meoww/)
-
-# Update : Đã xong tuần 1, 2, 3,4 !
-
-## Bài tập từng tuần ứng với các branch tương ứng với tên tuần đó
-
-## Xin cảm ơn
+## Ảnh chạy trên thiết bị
+![Screenshot_2021-10-27-20-02-07-726_com ducnb calculator](https://user-images.githubusercontent.com/62656512/139071596-44159cfd-ed94-413e-b745-a285fd40528c.jpg)
