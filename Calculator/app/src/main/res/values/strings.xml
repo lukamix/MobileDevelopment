@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="mplus">M+</string>
+    <string name="msubtract">M-</string>
+    <string name="ms">MS</string>
+    <string name="m">M</string>
+    <string name="percent">%</string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="xinverse">1⁄x</string>
+    <string name="square">x²</string>
+    <string name="squareroot">√x</string>
+    <string name="divide">\u00F7</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiple">\u00D7</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="subtract">-</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+    <string name="negative">+/-</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="calculation">1+1</string>
+    <string name="display">2</string>
+    <string name="back"></string>
+    <string name="appName">Papasuke</string>
+</resources>
