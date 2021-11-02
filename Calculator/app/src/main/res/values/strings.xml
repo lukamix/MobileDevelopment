@@ -12,11 +12,11 @@
     <string name="xinverse">1⁄x</string>
     <string name="square">x²</string>
     <string name="squareroot">√x</string>
-    <string name="divide">\u00F7</string>
+    <string name="divide">÷</string>
     <string name="seven">7</string>
     <string name="eight">8</string>
     <string name="nine">9</string>
-    <string name="multiple">\u00D7</string>
+    <string name="multiple">×</string>
     <string name="four">4</string>
     <string name="five">5</string>
     <string name="six">6</string>
@@ -29,8 +29,8 @@
     <string name="zero">0</string>
     <string name="dot">.</string>
     <string name="equal">=</string>
-    <string name="calculation">1+1</string>
-    <string name="display">2</string>
+    <string name="calculation"></string>
+    <string name="display">0</string>
     <string name="back"></string>
     <string name="appName">Papasuke</string>
 </resources>
