@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string-array name="type_array">
+        <item>kilomet</item>
+        <item>met</item>
+        <item>decimet</item>
+        <item>centimet</item>
+        <item>milimet</item>
+        <item>micromet</item>
+        <item>nanomet</item>
+        <item>angstrom</item>
+    </string-array>
+</resources>
