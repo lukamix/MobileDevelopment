@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">navi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nguyễn Bá Đức</string>
+    <string name="nav_header_subtitle">duc.nb183499@sis.hust.edu.vn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_calculator">Calculator</string>
+    <string name="menu_unit_transfer">Unit Transfer</string>
+    <string name="menu_number_transfer">Number Transfer</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="mplus">M+</string>
+    <string name="msubtract">M-</string>
+    <string name="ms">MS</string>
+    <string name="m">M</string>
+    <string name="percent">%</string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="xinverse">1⁄x</string>
+    <string name="square">x²</string>
+    <string name="squareroot">√x</string>
+    <string name="divide">÷</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiple">×</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="subtract">-</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+    <string name="negative">+/-</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="calculation"></string>
+    <string name="display">0</string>
+    <string name="back"></string>
+    <string name="appName">Papasuke</string>
+
+    <string-array name="type_array">
+        <item>kilomet</item>
+        <item>met</item>
+        <item>decimet</item>
+        <item>centimet</item>
+        <item>milimet</item>
+        <item>micromet</item>
+        <item>nanomet</item>
+        <item>angstrom</item>
+    </string-array>
+    <string-array name="number_array">
+        <item>bin</item>
+        <item>oct</item>
+        <item>dec</item>
+        <item>hex</item>
+    </string-array>
+</resources>
